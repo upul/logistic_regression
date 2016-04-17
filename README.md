@@ -5,6 +5,7 @@
 This project requires python 2.7 and following Python libraries installed.
 * numpy
 * pandas
+
 ### Run
 In a terminal or command window, navigate to the top-level project directory logistic_regression/(that contains this README) and run the following commands:
 
