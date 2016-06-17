@@ -1,4 +1,5 @@
 # Logistic Regression from the Scratch
+**Please kindly note that some mathematical expressions might not be properly rendered in the Github online IPython viewer. Please use [nbviewer](http://nbviewer.jupyter.org/github/upul/logistic_regression/blob/master/logistic_regression_1.ipynb)** 
 ### Case Study: Determine whether a person makes over 50K a year
 The main objective of this set of notebooks is to implement Logistic Regression from the scratch. We start this by deriving negative log likelihood of the logistic regression. Then, in order to create logistic regression algorithm, negative log likelihood function will be optimized using a simple optimization algorithm called gradient descent. Additionally, we will discuss a lot of related details such as regularization, handing large dataset and much more.
 
